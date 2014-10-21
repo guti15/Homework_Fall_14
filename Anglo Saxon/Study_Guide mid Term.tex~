@@ -1,0 +1,70 @@
+% Created 2014-10-07 Tue 19:54
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\author{Robert Gutierrez}
+\date{\today}
+\title{Study\_Guide mid Term}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 24.4.50.1 (Org mode 8.2.5h)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+-*- mode: org -*-
+
+
+\section{Time Line}
+\label{sec-1}
+
+
+\begin{center}
+\begin{tabular}{rrrrrrll}
+Migration & Converting & Golden Age & Viking & Reform & Norman Con & Middle English & mond Eng\\
+\hline
+ &  &  &  &  &  &  & \\
+500-600 & 600-700 & 700-800 & 800-900 & 900-1000 & 1000-1066 & 1066 - 1500 & Great shift\\
+ &  &  &  &  &  &  & vowel\\
+\hline
+\end{tabular}
+\end{center}
+
+\section{\TH}
+\label{sec-2}
+
+\TH could mean 
+\begin{itemize}
+\item Whene
+\item Then
+\end{itemize}
+
+What it tense could it be? \TH can be: 
+\begin{itemize}
+\item Relative Pronoun
+\begin{itemize}
+\item Demonstrative
+\begin{itemize}
+\item Female singular accusitve
+\item Plural Nomative Accusitive
+\end{itemize}
+\end{itemize}
+\end{itemize}
+% Emacs 24.4.50.1 (Org mode 8.2.5h)
+\end{document}

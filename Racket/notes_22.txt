@@ -1,0 +1,37 @@
+-*-mode: org -*-
+# last week we diid last section 1 
+
+* HomeWork Questions 
+(if 0 <expr> <test expr> <else expr> ) 
+
+
+(if 0(+ 5 5) (+ 1 1) 4)
+ 
+
+
+
+* class 
+
+
+** Topics that are gonna be in the mid term 
+   mid term is in 10/2 
+
+
+* notes 
+
+
+  1. Eger eavaluation = Solve for bound value then substitue 
+  
+  2. Lazy evaluation = substitue then solve the expression
+
+  3. with expression 
+
+
+Eager: 
+# example
+( with (x (+ 5 5)) 
+(with ( y (- x 3)
+(+y y)
+
+
+
